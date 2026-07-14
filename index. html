@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Lender</title>
+</head>
+<body>
+    <h1>Welcome to Smart Lender</h1>
+    <p>Smart Lender is a smart loan management platform.</p>
+
+    <h2>Features</h2>
+    <ul>
+        <li>Loan Application</li>
+        <li>EMI Calculator</li>
+        <li>Loan Tracking</li>
+        <li>User Dashboard</li>
+    </ul>
+
+    <button onclick="showMessage()">Learn More</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
